@@ -1,18 +1,18 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior Vue Developer",
+      "title": "Senior Vue Dev",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$90K - $100K",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
         "contactEmail": "contact@teksolutions.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "1"
     },
     {
       "id": "2",
@@ -152,6 +152,34 @@
         "description": "drakukeo el empalador, que empalo?, la caliento soy radiador, que caliento?",
         "contactEmail": "caborkino777@tuculo.com",
         "contactPhone": "+52 (666) 54545-69696969"
+      }
+    },
+    {
+      "id": "234e",
+      "title": "Vue Dev",
+      "type": "Internship",
+      "location": "Officiis at tempora ",
+      "description": "Sit illum quos qui ",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Carter and Berry Traders",
+        "description": "Magna maxime ipsum q",
+        "contactEmail": "xocyv@mailinator.com",
+        "contactPhone": "+1 (745) 363-2049"
+      }
+    },
+    {
+      "id": "a7b7",
+      "title": "Inez Gutierrez",
+      "type": "Remote",
+      "location": "Et rem iusto excepte",
+      "description": "Enim sed quia minus ",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Gordon and Wallace Associates",
+        "description": "Et exercitation sed ",
+        "contactEmail": "zukurajo@mailinator.com",
+        "contactPhone": "+1 (468) 936-1032"
       }
     }
   ]
